@@ -10,7 +10,7 @@ I am aspiring towards a future where computers have intelligence, not in a way t
 
 - I make some mobile apps for iOS and Android
 - I also do desktop development
-- Most of my repos are made during learning process
+- Most of my repos are made during my learning process
 - Studying Front end and Back end development
 - Also learning Hybrid App development
 
