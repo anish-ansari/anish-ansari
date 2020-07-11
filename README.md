@@ -14,6 +14,6 @@ I am aspiring towards a future where computers have intelligence, not in a way t
 - Studying Front end and Back end development
 - Also learning Hybrid App development
 
-# 💬 Want to connect? 📫
+# Want to connect?
 - LinkedIn: https://www.linkedin.com/in/anish-ansari-5959731a0/
 - Twitter: https://twitter.com/anish__ansari
