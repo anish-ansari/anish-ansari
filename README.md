@@ -1,8 +1,19 @@
-# Hello World!
+# Hi there, my name is Anish & I'm a Computer Engineering Undergraduate based in Nepal!
+
+I am aspiring towards a future where computers have intelligence, not in a way that humans might get turned into slaves by them.
+
+# The Dream
+
+- Help make complex artificial intelligence creation process easier & create quality of life improvements through technology in third world countries like Nepal.
+
+# Activites
+
 - I make some mobile apps for iOS and Android
 - I also do desktop development
 - Most of my repos are made during learning process
-- Now a computer engineering undergraduate staying at home
 - Studying Front end and Back end development
 - Also learning Hybrid App development
-- Aiming to become a スーパープログラマ
+
+# 💬 Want to connect? 📫
+- LinkedIn: https://www.linkedin.com/in/anish-ansari-5959731a0/
+- Twitter: https://twitter.com/anish__ansari
