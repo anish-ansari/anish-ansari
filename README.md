@@ -17,4 +17,3 @@ I am aspiring towards a future where computers have intelligence, not in a way t
 # Want to connect?
 - <a href="https://www.linkedin.com/in/anish-ansari-5959731a0/">LinkedIn</a>
 - <a href="https://twitter.com/anish__ansari">Twitter</a>
-- <a href="anishansari489@gmail.com">Email</a>
