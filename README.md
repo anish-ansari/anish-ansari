@@ -15,6 +15,6 @@ I am aspiring towards a future where computers have intelligence, not in a way t
 - Also learning Hybrid App development
 
 # Want to connect?
-- LinkedIn: https://www.linkedin.com/in/anish-ansari-5959731a0/
-- Twitter: https://twitter.com/anish__ansari
-- Email: anishansari489@gmail.com
+- <a href="https://www.linkedin.com/in/anish-ansari-5959731a0/">LinkedIn</a>
+- <a href="https://twitter.com/anish__ansari">Twitter</a>
+- <a href="anishansari489@gmail.com">Email</a>
